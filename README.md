@@ -1,8 +1,11 @@
 # resume
 
 this is a course experiment of web development.
+
 web 课程作业
+
 stu No.201813160530
+
 class No.2018170102:计科二班
 
 简历页面采用响应式设计，能适应多种分辨率的设备，使用了 bootstrap、fontawesome。有自定义的 js、css 以及其他资源，请 clone 整个项目来完整运行。因为使用了 cdn，所以 fontawesome 的图标可能无法正常加载，但我已经换成了国内的 cdn，应该不会有问题，如果图标无法正常加载，请联系我。
